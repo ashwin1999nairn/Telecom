@@ -19,10 +19,6 @@ iii) Open "Telecom_Final.c" using code::blocks.
 
 iv) Since we are permanently storing data in "users.bin", the path/address of "users.bin" must be specified in lines 32 and 74 of the code in code::blocks. The address that you see in lines 32 and 74 is the address of the file "users.bin" in my pc. You need to replace that address with the address of "users.bin" in your pc. 
 To do this, open the folder "CSD201_PROJECT" in documents. At the top you would see an address bar of the format "This PC > Documents > CSD201_PROJECT". Right click on it and select "copy address as text". Now when you paste this text in lines 32 and 74 in place of "C:\\Users\\hp\\Documents\\CSD201_PROJECT\\users.bin", it would appear as "C:\Users\hp\Documents\CSD201_PROJECT". Now, you need to replace the single backslash( \ ) with double backslash( \\ ) and type "\\users.bin" after "CSD201_PROJECT".
-If you face any issue in step (iv), please contact the following:
-Name: Jashan Deep Sethi
-Phone no.: 8447716175
-Email ID: js385@snu.edu.in
 
 v) Once you are done with step (iv), now simply compile and run the program. You will encounter a "Welcome" screen followed by a "login" screen. Login details are as follows:
 User ID: Employee1
